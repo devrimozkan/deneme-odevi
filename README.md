@@ -1,0 +1,2 @@
+# deneme-odevi
+patika
